@@ -1,0 +1,38 @@
+{
+  "user1": {
+    "products": [
+      {
+        "productId": 10,
+        "name": "Product A",
+        "price": 20.0,
+        "quantity": 2
+      },
+      {
+        "productId": 20,
+        "name": "Product B",
+        "price": 20.0,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 60.0,
+    "totalQuantity": 3
+  },
+  "user2": {
+    "products": [
+      {
+        "productId": 20,
+        "name": "Product B",
+        "price": 20.0,
+        "quantity": 3
+      },
+      {
+        "productId": 30,
+        "name": "Product C",
+        "price": 15.0,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 90.0,
+    "totalQuantity": 5
+  }
+}

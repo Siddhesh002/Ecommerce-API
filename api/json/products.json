@@ -1,0 +1,30 @@
+{
+  "10": {
+    "productId": "10",
+    "name": "Product A",
+    "price": 20.0,
+    "quantity": 100,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88f79fwAIKwM67uYd4AAAAABJRU5ErkJggg=="
+  },
+  "20": {
+    "productId": "20",
+    "name": "Product B",
+    "price": 20.0,
+    "quantity": 50,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88f79fwAIKwM67uYd4AAAAABJRU5ErkJggg=="
+  },
+  "30": {
+    "productId": "30",
+    "name": "Product C",
+    "price": 15.0,
+    "quantity": 200,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88f79fwAIKwM67uYd4AAAAABJRU5ErkJggg=="
+  },
+  "string": {
+    "productId": "string",
+    "image": "string",
+    "name": "string",
+    "price": 0.0,
+    "quantity": 0
+  }
+}
